@@ -7,17 +7,17 @@
 
     "env": {
         "SESSION_ID": {
-            "description": "Manu-MD&gP8TzJrJ#a93NvGgZ5zOzu_Xs-N1vmyUexddc3l6jflSwDwBg_yA.",
+            "description": ".",
             "required": true,
             "value": "put session id here"
         },
         "GITHUB_USERNAME": {
-            "description": "aitazizhassan.",
+            "description": ".",
             "required": true,
              "value": "put your usearname"
         },
         "GITHUB_AUTH_TOKEN": {
-            "description": "65xovROfqMfoHiiRcVjceuK9PzSUVx3ifGVY.",
+            "description": ".",
             "required": true,
             "value": "put your auth token"
         }
